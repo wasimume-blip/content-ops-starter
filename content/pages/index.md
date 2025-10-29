@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: The Site Is Underconstruction
+      label: The Site Is Under Construction
       color: text-primary
       type: Badge
     elementId: ''
