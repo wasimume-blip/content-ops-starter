@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your
+      text: 'Connect, Protect, and Enhance Your Technology.'
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
